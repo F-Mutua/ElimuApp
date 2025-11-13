@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "74514713263",
+    "project_id": "elimu-d3b0c",
+    "storage_bucket": "elimu-d3b0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74514713263:android:08b683f03d6253fdab625a",
+        "android_client_info": {
+          "package_name": "com.fj.elimu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74514713263-lk9j7lr2q2amkf9dm79mqo6fjtesklku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXtMs_66gl_0oOzU35x9sSJ2gy9DSpn8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74514713263-lk9j7lr2q2amkf9dm79mqo6fjtesklku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

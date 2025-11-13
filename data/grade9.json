@@ -1,0 +1,137 @@
+{
+  "textbooks": [
+    {
+      "id": "g9_tb_math_1",
+      "title": "Mathematics Textbook",
+      "subject": "Math",
+      "url": "https://example.com/grade9/math_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 6815744,
+      "description": "Advanced mathematics for Grade 9"
+    },
+    {
+      "id": "g9_tb_science_1",
+      "title": "Science Textbook",
+      "subject": "Science",
+      "url": "https://example.com/grade9/science_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 7864320,
+      "description": "Integrated science - physics, chemistry, biology"
+    },
+    {
+      "id": "g9_tb_english_1",
+      "title": "English Textbook",
+      "subject": "English",
+      "url": "https://example.com/grade9/english_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 5767168,
+      "description": "English language and literature mastery"
+    },
+    {
+      "id": "g9_tb_social_1",
+      "title": "Social Studies Textbook",
+      "subject": "Social Studies",
+      "url": "https://example.com/grade9/social_studies_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 6291456,
+      "description": "Geography, history, government, and economics"
+    }
+  ],
+  "notes": [
+    {
+      "id": "g9_note_math_1",
+      "title": "Calculus Introduction",
+      "subject": "Math",
+      "url": "https://example.com/grade9/notes/calculus_intro.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1572864,
+      "description": "Basic concepts of calculus"
+    },
+    {
+      "id": "g9_note_science_1",
+      "title": "Organic Chemistry",
+      "subject": "Science",
+      "url": "https://example.com/grade9/notes/organic_chemistry.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1835008,
+      "description": "Introduction to organic compounds"
+    },
+    {
+      "id": "g9_note_english_1",
+      "title": "Advanced Grammar",
+      "subject": "English",
+      "url": "https://example.com/grade9/notes/advanced_grammar.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1310720,
+      "description": "Complex grammar structures"
+    },
+    {
+      "id": "g9_note_business_1",
+      "title": "Business Studies Basics",
+      "subject": "Business",
+      "url": "https://example.com/grade9/notes/business_basics.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1048576,
+      "description": "Introduction to business concepts"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "g9_pdf_math_1",
+      "title": "Statistics and Probability",
+      "subject": "Math",
+      "url": "https://example.com/grade9/pdfs/statistics_probability.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 3670016,
+      "description": "Data analysis and probability"
+    },
+    {
+      "id": "g9_pdf_science_1",
+      "title": "Physics Formulas",
+      "subject": "Science",
+      "url": "https://example.com/grade9/pdfs/physics_formulas.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 2097152,
+      "description": "Essential physics formulas and constants"
+    },
+    {
+      "id": "g9_pdf_exam_1",
+      "title": "Mock Exam Papers",
+      "subject": "General",
+      "url": "https://example.com/grade9/pdfs/mock_exams.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 6291456,
+      "description": "Full set of mock examination papers"
+    }
+  ],
+  "videos": [
+    {
+      "id": "g9_vid_math_1",
+      "title": "Logarithms Explained",
+      "subject": "Math",
+      "url": "https://example.com/grade9/videos/logarithms.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 73400320,
+      "description": "Understanding logarithms and their applications"
+    },
+    {
+      "id": "g9_vid_science_1",
+      "title": "Newton's Laws of Motion",
+      "subject": "Science",
+      "url": "https://example.com/grade9/videos/newtons_laws.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 94371840,
+      "description": "Detailed explanation of Newton's three laws"
+    },
+    {
+      "id": "g9_vid_english_1",
+      "title": "Debate and Public Speaking",
+      "subject": "English",
+      "url": "https://example.com/grade9/videos/debate_speaking.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 62914560,
+      "description": "Skills for effective debate and public speaking"
+    }
+  ]
+}
+

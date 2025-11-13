@@ -1,0 +1,137 @@
+{
+  "textbooks": [
+    {
+      "id": "g8_tb_math_1",
+      "title": "Mathematics Textbook",
+      "subject": "Math",
+      "url": "https://example.com/grade8/math_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 6291456,
+      "description": "Comprehensive mathematics for Grade 8"
+    },
+    {
+      "id": "g8_tb_science_1",
+      "title": "Science Textbook",
+      "subject": "Science",
+      "url": "https://example.com/grade8/science_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 7340032,
+      "description": "Physics, chemistry, and biology"
+    },
+    {
+      "id": "g8_tb_english_1",
+      "title": "English Textbook",
+      "subject": "English",
+      "url": "https://example.com/grade8/english_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 5242880,
+      "description": "Advanced English language skills"
+    },
+    {
+      "id": "g8_tb_kiswahili_1",
+      "title": "Kiswahili Textbook",
+      "subject": "Kiswahili",
+      "url": "https://example.com/grade8/kiswahili_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 4718592,
+      "description": "Kiswahili fasihi na lugha"
+    }
+  ],
+  "notes": [
+    {
+      "id": "g8_note_math_1",
+      "title": "Quadratic Equations",
+      "subject": "Math",
+      "url": "https://example.com/grade8/notes/quadratic_equations.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1310720,
+      "description": "Solving quadratic equations"
+    },
+    {
+      "id": "g8_note_science_1",
+      "title": "Electricity and Magnetism",
+      "subject": "Science",
+      "url": "https://example.com/grade8/notes/electricity_magnetism.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1572864,
+      "description": "Understanding electrical circuits"
+    },
+    {
+      "id": "g8_note_english_1",
+      "title": "Essay Writing",
+      "subject": "English",
+      "url": "https://example.com/grade8/notes/essay_writing.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1048576,
+      "description": "Techniques for writing excellent essays"
+    },
+    {
+      "id": "g8_note_social_1",
+      "title": "East African History",
+      "subject": "Social Studies",
+      "url": "https://example.com/grade8/notes/ea_history.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1310720,
+      "description": "History of East Africa"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "g8_pdf_math_1",
+      "title": "Trigonometry Basics",
+      "subject": "Math",
+      "url": "https://example.com/grade8/pdfs/trigonometry.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 3145728,
+      "description": "Introduction to trigonometry"
+    },
+    {
+      "id": "g8_pdf_science_1",
+      "title": "Biology Diagrams",
+      "subject": "Science",
+      "url": "https://example.com/grade8/pdfs/biology_diagrams.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 4194304,
+      "description": "Labeled diagrams for biology"
+    },
+    {
+      "id": "g8_pdf_revision_1",
+      "title": "KCPE Preparation Guide",
+      "subject": "General",
+      "url": "https://example.com/grade8/pdfs/kcpe_prep.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 5242880,
+      "description": "Comprehensive KCPE preparation"
+    }
+  ],
+  "videos": [
+    {
+      "id": "g8_vid_math_1",
+      "title": "Pythagoras Theorem",
+      "subject": "Math",
+      "url": "https://example.com/grade8/videos/pythagoras.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 52428800,
+      "description": "Understanding and applying Pythagoras theorem"
+    },
+    {
+      "id": "g8_vid_science_1",
+      "title": "Chemical Reactions",
+      "subject": "Science",
+      "url": "https://example.com/grade8/videos/chemical_reactions.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 83886080,
+      "description": "Types of chemical reactions explained"
+    },
+    {
+      "id": "g8_vid_english_1",
+      "title": "Poetry Analysis",
+      "subject": "English",
+      "url": "https://example.com/grade8/videos/poetry_analysis.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 47185920,
+      "description": "How to analyze poems effectively"
+    }
+  ]
+}
+

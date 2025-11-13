@@ -1,0 +1,137 @@
+{
+  "textbooks": [
+    {
+      "id": "g7_tb_math_1",
+      "title": "Mathematics Textbook",
+      "subject": "Math",
+      "url": "https://example.com/grade7/math_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 5767168,
+      "description": "Advanced mathematics textbook for Grade 7"
+    },
+    {
+      "id": "g7_tb_science_1",
+      "title": "Science Textbook",
+      "subject": "Science",
+      "url": "https://example.com/grade7/science_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 6815744,
+      "description": "Integrated science textbook"
+    },
+    {
+      "id": "g7_tb_english_1",
+      "title": "English Textbook",
+      "subject": "English",
+      "url": "https://example.com/grade7/english_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 4718592,
+      "description": "English language and literature"
+    },
+    {
+      "id": "g7_tb_social_1",
+      "title": "Social Studies Textbook",
+      "subject": "Social Studies",
+      "url": "https://example.com/grade7/social_studies_textbook.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 5242880,
+      "description": "Geography, history, and civics"
+    }
+  ],
+  "notes": [
+    {
+      "id": "g7_note_math_1",
+      "title": "Ratios and Proportions",
+      "subject": "Math",
+      "url": "https://example.com/grade7/notes/ratios_proportions.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1048576,
+      "description": "Understanding ratios and proportions"
+    },
+    {
+      "id": "g7_note_science_1",
+      "title": "Energy and Power",
+      "subject": "Science",
+      "url": "https://example.com/grade7/notes/energy_power.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1310720,
+      "description": "Forms of energy and power calculations"
+    },
+    {
+      "id": "g7_note_english_1",
+      "title": "Comprehension Skills",
+      "subject": "English",
+      "url": "https://example.com/grade7/notes/comprehension.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 786432,
+      "description": "Improving reading comprehension"
+    },
+    {
+      "id": "g7_note_cre_1",
+      "title": "Biblical Stories",
+      "subject": "CRE",
+      "url": "https://example.com/grade7/notes/biblical_stories.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 1048576,
+      "description": "Key biblical stories and lessons"
+    }
+  ],
+  "pdfs": [
+    {
+      "id": "g7_pdf_math_1",
+      "title": "Geometry Practice",
+      "subject": "Math",
+      "url": "https://example.com/grade7/pdfs/geometry_practice.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 2621440,
+      "description": "Geometry problems and solutions"
+    },
+    {
+      "id": "g7_pdf_science_1",
+      "title": "Chemistry Basics",
+      "subject": "Science",
+      "url": "https://example.com/grade7/pdfs/chemistry_basics.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 3670016,
+      "description": "Introduction to chemistry concepts"
+    },
+    {
+      "id": "g7_pdf_exam_1",
+      "title": "Past Exam Papers",
+      "subject": "General",
+      "url": "https://example.com/grade7/pdfs/past_papers.pdf",
+      "thumbnailUrl": null,
+      "fileSize": 4194304,
+      "description": "Collection of past examination papers"
+    }
+  ],
+  "videos": [
+    {
+      "id": "g7_vid_math_1",
+      "title": "Solving Equations",
+      "subject": "Math",
+      "url": "https://example.com/grade7/videos/solving_equations.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 62914560,
+      "description": "Step-by-step guide to solving equations"
+    },
+    {
+      "id": "g7_vid_science_1",
+      "title": "The Solar System",
+      "subject": "Science",
+      "url": "https://example.com/grade7/videos/solar_system.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 73400320,
+      "description": "Journey through our solar system"
+    },
+    {
+      "id": "g7_vid_english_1",
+      "title": "Oral Literature",
+      "subject": "English",
+      "url": "https://example.com/grade7/videos/oral_literature.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 41943040,
+      "description": "Understanding oral literature forms"
+    }
+  ]
+}
+
