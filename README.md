@@ -112,8 +112,8 @@ flutter build appbundle --release
 
 ## 📞 Support
 
-- **Email**: support@elimuapp.com
-- **Phone**: +254 700 000 000
+- **Email**: faithjudith03@gmail.com
+- **Phone**: +254 733 331 039
 
 ## 📄 License
 
