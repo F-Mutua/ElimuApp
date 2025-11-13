@@ -49,6 +49,10 @@ ElimuApp is a mobile educational application designed to provide affordable, off
 
 For detailed setup instructions, see [SETUP_GUIDE.md](SETUP_GUIDE.md).
 
+## release apk
+''check file ElimuApp-release.apk
+
+
 ## 📁 Project Structure
 
 ```
