@@ -1,5 +1,8 @@
 # ElimuApp - Learning Made Easy for Every Child 📚
 
+#Visit site 
+https://f-mutua.github.io/demo-elimuapp/
+
 ![Flutter](https://img.shields.io/badge/Flutter-3.9.2-02569B?logo=flutter)
 ![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?logo=firebase)
 ![License](https://img.shields.io/badge/License-Proprietary-red)
