@@ -4,36 +4,36 @@
       "id": "g6_tb_math_1",
       "title": "Mathematics Textbook",
       "subject": "Math",
-      "url": "https://example.com/grade6/math_textbook.pdf",
+      "url": "https://www.africau.edu/images/default/sample.pdf",
       "thumbnailUrl": null,
-      "fileSize": 5242880,
+      "fileSize": 3028,
       "description": "Complete mathematics textbook for Grade 6"
     },
     {
       "id": "g6_tb_science_1",
       "title": "Science Textbook",
       "subject": "Science",
-      "url": "https://example.com/grade6/science_textbook.pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "thumbnailUrl": null,
-      "fileSize": 6291456,
+      "fileSize": 13264,
       "description": "Comprehensive science textbook covering all topics"
     },
     {
       "id": "g6_tb_english_1",
       "title": "English Textbook",
       "subject": "English",
-      "url": "https://example.com/grade6/english_textbook.pdf",
+      "url": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf",
       "thumbnailUrl": null,
-      "fileSize": 4194304,
+      "fileSize": 85284,
       "description": "English language and literature textbook"
     },
     {
       "id": "g6_tb_kiswahili_1",
       "title": "Kiswahili Textbook",
       "subject": "Kiswahili",
-      "url": "https://example.com/grade6/kiswahili_textbook.pdf",
+      "url": "https://www.africau.edu/images/default/sample.pdf",
       "thumbnailUrl": null,
-      "fileSize": 4194304,
+      "fileSize": 3028,
       "description": "Kiswahili language textbook"
     }
   ],
@@ -42,36 +42,36 @@
       "id": "g6_note_math_1",
       "title": "Fractions and Decimals",
       "subject": "Math",
-      "url": "https://example.com/grade6/notes/fractions_decimals.pdf",
+      "url": "https://www.africau.edu/images/default/sample.pdf",
       "thumbnailUrl": null,
-      "fileSize": 1048576,
+      "fileSize": 3028,
       "description": "Quick revision notes on fractions and decimals"
     },
     {
       "id": "g6_note_science_1",
       "title": "Living Things",
       "subject": "Science",
-      "url": "https://example.com/grade6/notes/living_things.pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "thumbnailUrl": null,
-      "fileSize": 1048576,
+      "fileSize": 13264,
       "description": "Notes on classification of living things"
     },
     {
       "id": "g6_note_english_1",
       "title": "Grammar Basics",
       "subject": "English",
-      "url": "https://example.com/grade6/notes/grammar_basics.pdf",
+      "url": "https://www.africau.edu/images/default/sample.pdf",
       "thumbnailUrl": null,
-      "fileSize": 524288,
+      "fileSize": 3028,
       "description": "Essential grammar rules and examples"
     },
     {
       "id": "g6_note_social_1",
       "title": "Map Reading",
       "subject": "Social Studies",
-      "url": "https://example.com/grade6/notes/map_reading.pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "thumbnailUrl": null,
-      "fileSize": 786432,
+      "fileSize": 13264,
       "description": "Introduction to map reading and symbols"
     }
   ],
@@ -80,27 +80,27 @@
       "id": "g6_pdf_math_1",
       "title": "Math Practice Questions",
       "subject": "Math",
-      "url": "https://example.com/grade6/pdfs/math_practice.pdf",
+      "url": "https://www.adobe.com/support/products/enterprise/knowledgecenter/media/c4611_sample_explain.pdf",
       "thumbnailUrl": null,
-      "fileSize": 2097152,
+      "fileSize": 85284,
       "description": "100+ practice questions with answers"
     },
     {
       "id": "g6_pdf_science_1",
       "title": "Science Experiments",
       "subject": "Science",
-      "url": "https://example.com/grade6/pdfs/science_experiments.pdf",
+      "url": "https://www.africau.edu/images/default/sample.pdf",
       "thumbnailUrl": null,
-      "fileSize": 3145728,
+      "fileSize": 3028,
       "description": "Simple science experiments you can do at home"
     },
     {
       "id": "g6_pdf_revision_1",
       "title": "End of Term Revision",
       "subject": "General",
-      "url": "https://example.com/grade6/pdfs/revision_guide.pdf",
+      "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "thumbnailUrl": null,
-      "fileSize": 2621440,
+      "fileSize": 13264,
       "description": "Comprehensive revision guide for all subjects"
     }
   ],
@@ -109,28 +109,46 @@
       "id": "g6_vid_math_1",
       "title": "Introduction to Algebra",
       "subject": "Math",
-      "url": "https://example.com/grade6/videos/algebra_intro.mp4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "thumbnailUrl": null,
-      "fileSize": 52428800,
+      "fileSize": 158008374,
       "description": "15-minute video explaining basic algebra concepts"
     },
     {
       "id": "g6_vid_science_1",
       "title": "The Water Cycle",
       "subject": "Science",
-      "url": "https://example.com/grade6/videos/water_cycle.mp4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
       "thumbnailUrl": null,
-      "fileSize": 41943040,
+      "fileSize": 171076600,
       "description": "Animated explanation of the water cycle"
     },
     {
       "id": "g6_vid_english_1",
       "title": "Writing a Good Composition",
       "subject": "English",
-      "url": "https://example.com/grade6/videos/composition_writing.mp4",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
       "thumbnailUrl": null,
-      "fileSize": 31457280,
+      "fileSize": 2299653,
       "description": "Tips and tricks for writing excellent compositions"
+    },
+    {
+      "id": "g6_vid_history_1",
+      "title": "Ancient Civilizations",
+      "subject": "History",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 2299653,
+      "description": "Explore ancient civilizations and their contributions"
+    },
+    {
+      "id": "g6_vid_geography_1",
+      "title": "Understanding Maps",
+      "subject": "Geography",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "thumbnailUrl": null,
+      "fileSize": 2299653,
+      "description": "Learn how to read and interpret different types of maps"
     }
   ]
 }
